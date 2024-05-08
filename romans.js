@@ -130,7 +130,7 @@ function init() {
     }
 
     const mapping = {
-      2: "I",
+      1: "I",
       5: "V",
       10: "X",
       50: "L",
