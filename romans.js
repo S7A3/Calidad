@@ -264,7 +264,3 @@ if (!String.prototype.repeat) {
     return rpt;
   };
 }
-
-      return obj[1000].repeat(parseInt(num / 1000));
-    }
-  };
